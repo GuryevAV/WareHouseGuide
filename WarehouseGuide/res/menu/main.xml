@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.warehouseguide.MainActivity" >
+
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="always"
+        android:title="@string/action_add"/>
+	
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:showAsAction="always"
+        android:title="@string/action_add"/>
+    
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_share"
+        android:showAsAction="always"
+        android:title="@string/action_share"/>
+    
+    <item
+        android:id="@+id/action_download"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_av_return_from_full_screen"
+        android:showAsAction="always"
+        android:title="@string/action_download"/>
+        
+</menu>

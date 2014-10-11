@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Склад:Путеводитель</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Добавить</string>
+	<string name="yes">Да</string>
+	<string name="no">Нет</string>
+	<string name="warning">Предупреждение</string>
+	<string name="exit_message">Вы действительно хотите выйти?</string>
+	<string name="name">Наименование</string>
+	<string name="row">Ряд</string>
+	<string name="section">Секция</string>
+	<string name="action_save">Сохранить</string>
+	<string name="action_cancel">Отмена</string>
+	<string name="goods_added">Товар добавлен</string>
+	<string name="menu_settings">Настройки</string>	
+	<string name="clear_message">Вы действительно хотите удалить все данные по товарам?</string>
+	<string name="action_share">Выгрузить</string>
+	<string name="action_download">Загрузить</string>
+	<string name="load_message">При загрузке все текущие данные будут удалены. Продолжить?</string>
+	
+</resources>
